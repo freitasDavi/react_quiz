@@ -1,4 +1,4 @@
-# ReactQuiz - Quiz feito na em ReactJS + Typescript 
+# ReactQuiz - Quiz feito em ReactJS + Typescript 
 
 
 ## 📖 Sobre 
